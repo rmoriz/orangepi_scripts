@@ -1,0 +1,6 @@
+/dev/mmcblk0p1: SEC_TYPE="msdos" LABEL="EMMCBOOT" UUID="E713-9DD0" TYPE="vfat" PARTUUID="560b2c98-01"
+/dev/mmcblk0p2: LABEL="emmclinux" UUID="cc931d85-f58d-460d-9126-b10502c48bf5" TYPE="ext4" PARTUUID="560b2c98-02"
+/dev/mmcblk1p1: SEC_TYPE="msdos" LABEL="BOOT" UUID="16AC-FBA4" TYPE="vfat" PARTUUID="000ebed2-01"
+/dev/mmcblk1p2: LABEL="rootfs" UUID="f254ba92-d0ab-42b1-90a2-3ced2cfdef8e" TYPE="ext4" PARTUUID="000ebed2-02"
+/dev/mmcblk0: PTUUID="560b2c98" PTTYPE="dos"
+/dev/mmcblk1: PTUUID="000ebed2" PTTYPE="dos"
